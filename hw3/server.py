@@ -36,7 +36,7 @@ while True:
         data["value"] = int(split_msg[0]) * int(split_msg[1]);
       elif ("/" in parsed_msg):
         split_msg = parsed_msg.split("/");
-        data["value"] = int(split_msg[0]) / int(split_msg[1]);
+        data["value"] = "{:.1f}".format(int(split_msg[0]) / int(split_msg[1]));
       else:
         data["status"] = 1;
         data["message"] = "지원하지 않는 연산자이거나 연산자가 존재하지 않습니다. 다시 시도해주세요";
