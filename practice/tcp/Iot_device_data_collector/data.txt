@@ -1,0 +1,5 @@
+Mon Apr 20 21:08:52 2026: Device1: Temp=29, Humid=50, Iilum=107
+Mon Apr 20 21:08:53 2026: Device2: Heartbeat=132, Steps=3848, Cal=3133
+Mon Apr 20 21:08:53 2026: Device1: Temp=22, Humid=12, Iilum=86
+Mon Apr 20 21:08:54 2026: Device2: Heartbeat=110, Steps=5205, Cal=1249
+Mon Apr 20 21:08:59 2026: Device1: Temp=1, Humid=39, Iilum=149
