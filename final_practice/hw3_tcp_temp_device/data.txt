@@ -1,0 +1,10 @@
+Tue Jun  9 09:12:52 2026: Device2: Heartbeat=131, Steps=5803, Cal=1926
+Tue Jun  9 09:12:52 2026: Device1: Temp=26, Humid=36, Ilum=90
+Tue Jun  9 09:12:55 2026: Device1: Temp=39, Humid=70, Ilum=77
+Tue Jun  9 09:12:57 2026: Device2: Heartbeat=74, Steps=4518, Cal=3016
+Tue Jun  9 09:12:58 2026: Device1: Temp=11, Humid=40, Ilum=140
+Tue Jun  9 09:13:01 2026: Device1: Temp=10, Humid=59, Ilum=97
+Tue Jun  9 09:13:02 2026: Device2: Heartbeat=95, Steps=2544, Cal=3986
+Tue Jun  9 09:13:04 2026: Device1: Temp=22, Humid=7, Ilum=89
+Tue Jun  9 09:13:07 2026: Device2: Heartbeat=106, Steps=3241, Cal=1120
+Tue Jun  9 09:13:12 2026: Device2: Heartbeat=139, Steps=2789, Cal=1658
